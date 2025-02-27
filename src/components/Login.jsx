@@ -14,6 +14,7 @@ export const Login = () => {
                     <div className="inputbox">
                         <input type="password" placeholder="Password  " required />
                         <i className='bx bx-lock-alt'></i>
+                        {/* loim */}
                     </div>
 
                     <div className="remember-forget">
@@ -30,9 +31,6 @@ export const Login = () => {
 
                 </form>
             </center>
-
-
-
 
         </div>
     )
